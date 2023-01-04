@@ -4,15 +4,15 @@
 ```bash
 # NOTE - Dont use '-' or blank spaces in flag values , otherwise it will create build errors or other bugs in recovery (Excluding SHRP_PATH,SHRP_REC). 
 # Path of your SHRP Tree
-SHRP_PATH := device/brand/codename
+SHRP_PATH := device/realme/spaced
 # Maintainer name *
-SHRP_MAINTAINER := epicX
+SHRP_MAINTAINER := carckv2
 # Device codename *
-SHRP_DEVICE_CODE := c103
+SHRP_DEVICE_CODE := spaced
 # Recovery Type (It can be treble,normal,SAR) [Only for About Section] *
 SHRP_REC_TYPE := Treble
 # Recovery Type (It can be A/B or A_only) [Only for About Section] *
-SHRP_DEVICE_TYPE := A_Only
+SHRP_DEVICE_TYPE := A/BOnly
 
 
 # SHRP Padding Flag (Only for rounded corner devices.) [Optional]
